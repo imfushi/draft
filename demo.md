@@ -6,7 +6,7 @@ ct
 c
 c
 c
-ctt
+cttt
 t
 t
 t
